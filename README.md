@@ -2,7 +2,7 @@
 
 ## Project Description 
 
-First we will authenticate with twiter by using twitter developer credentials.Then we will grab the tweets on topic ##Corona## in furthur step we will clean and preprocess the data then we will find the polarity of each tweet.
+First we will authenticate with twiter by using twitter developer credentials.Then we will grab the tweets on topic **Corona virus** in furthur step we will clean and preprocess the data then we will find the polarity of each tweet.
 
 Once you have this list of tweets , run a sentiment analysis on for each tweet and finally the output should be in the below format
 
